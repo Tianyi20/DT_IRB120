@@ -1,5 +1,7 @@
 Official repository of paper: "Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing"
 
+![](./case.png)
+
 How to use it:
 ```
 Unity 3D 
